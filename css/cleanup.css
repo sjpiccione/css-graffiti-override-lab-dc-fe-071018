@@ -11,17 +11,7 @@ div#wall #tag-2 {
   z-index: 6;
   display: none;
 }
-<body>
-  <div id="wall">
-    <div class="tag-1"></div>
-    <div id="tag-2"></div>
-    <div id="tag-3" class="slick wicked"></div>
-
-
-
-
-
-#tag-3.slick-wicked {
+#wall #tag-3.slick-wicked {
   background: url(../images/tag-3.png) no-repeat;
   z-index: 5;
   display: none;
