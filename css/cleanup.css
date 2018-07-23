@@ -19,7 +19,7 @@ div#wall #tag-2 {
 div#wall #tag-4 {
   background: url(../images/tag-4.png) no-repeat;
   z-index: 4;
-  display: block;
+  display: none;
 }
 
 div#wall .parent #tag-5.slick {
@@ -28,7 +28,7 @@ div#wall .parent #tag-5.slick {
   display: block;
 }
 
-div#wall div.parent div:last-child div#tag-6 {
+body div#wall div.parent div:last-child div#tag-6 {
   background: url(../images/tag-6.png) no-repeat;
   z-index: 2;
   display: block;
