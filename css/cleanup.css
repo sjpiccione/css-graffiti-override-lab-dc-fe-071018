@@ -22,16 +22,16 @@ div#wall #tag-4 {
   display: none;
 }
 
-div#wall .parent #tag-5.slick {
+body div#wall .parent #tag-5.slick {
   background: url(../images/tag-5.png) no-repeat;
   z-index: 3;
-  display: block;
+  display: none;
 }
 
 body div#wall div.parent div:last-child div#tag-6 {
   background: url(../images/tag-6.png) no-repeat;
   z-index: 2;
-  display: block;
+  display: none;
 }
 
 body div#wall div.parent div > #tag-7.slick {
