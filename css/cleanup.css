@@ -16,7 +16,7 @@ div#wall #tag-2 {
   z-index: 5;
   display: none;
 }
-div#wall #tag-4 {
+body div#wall #tag-4 {
   background: url(../images/tag-4.png) no-repeat;
   z-index: 4;
   display: none;
